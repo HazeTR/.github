@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HazeTR/.github/main/assets/logo.png" width="100" alt="Haze Logo" />
+  <img src="https://raw.githubusercontent.com/HazeTR/.github/main/logo.png" width="100" alt="Haze Logo" />
 
   <h1>Haze</h1>
 
